@@ -1,5 +1,5 @@
 ## Hi there 👋
-###My name is Daniel Hernandez
+## My name is Daniel Hernandez
 <!--
 **Canton22/Canton22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
