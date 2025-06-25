@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: danielcanton.dug@gmail.com or CEL. 56-14-87-05-32
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Im so sociable
--->![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -66,6 +64,5 @@ Here are some ideas to get you started:
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
 Last Edited on: 11/12/2020
