@@ -1,7 +1,7 @@
 <p align="center"> HOLA 👋 MI NOMBRE ES DANIEL AARON HERNANDEZ CANTON :sparkles:
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Mi+GITHUB;Ingeniero+Softweer;Estudiante+Cientifico+Datos;Competitivo;Python;Maching+Learning;Power+BI;Siempre+Aprendiendo+Nuevas+Cosas"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=45&center=true&vCenter=true&width=600&height=100&lines=Mi+GITHUB;Ingeniero+Softweer;Estudiante+Cientifico+Datos;Competitivo;Python;Maching+Learning;Power+BI;Siempre+Aprendiendo+Nuevas+Cosas"></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ACERCA DE MI:
