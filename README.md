@@ -103,9 +103,9 @@ Refranes:
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+[![Canton22's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Canton22&theme=github)](https://github.com/Canton22?tab=repositories)
 
- 
+
 </details>
 
 <details><summary> <h3> :trophy: Git Archivos destacados </h3></summary>
@@ -114,7 +114,7 @@ Refranes:
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
+[![@Canton22's Holopin board](https://holopin.io/api/user/board?user=Canton22)](https://holopin.io/@Canton22)
 	
 </details>
 	
@@ -146,16 +146,16 @@ Refranes:
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/Canton22/Proyecto-Tripleten-8.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto-Tripleten-8&theme=tokyonight" alt="Proyecto-Tripleten-8 Repo" />
     	</a>
 	<a href="https://github.com/Canton22/Proyecto-Tripleten-9.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto-Tripleten-9&theme=tokyonight" alt="Proyecto-Tripleten-9 Repo" />
     	</a>
 	<a href="https://github.com/Canton22/Proyecto-TripleTen-10.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto-Tripleten-9&theme=tokyonight" alt="Proyecto-TripleTen-10 Repo" />
     	</a>
 	<a href="https://github.com/Canton22/Proyecto-TripleTen-11.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto-Tripleten-9&theme=tokyonight" alt="Proyecto-TripleTen-11 Repo />
     	</a>
 	<a href="https://github.com/Canton22/Proyecto-TripleTen-12.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
