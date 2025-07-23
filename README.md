@@ -155,8 +155,8 @@ Refranes:
 	<a href="https://github.com/Canton22/Proyecto-TripleTen-17.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto-TripleTen-17&theme=tokyonight" alt="Proyecto-TripleTen-17 Repo />
     	</a>
-	<a href="https://github.com/Canton22/Proyecto-TripleTen-18-Final.git">
-      		img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto-TripleTen-18-Final&theme=tokyonight" alt="Proyecto-TripleTen-18-Final Repo />
+	<a href="https://github.com/Canton22/Proyecto TripleTen FInal sprint 18.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto TripleTen FInal sprint 18&theme=tokyonight" alt="Proyecto TripleTen FInal sprint 18 Repo />
   </p>
 </div>
 </details>
