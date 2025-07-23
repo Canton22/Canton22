@@ -164,7 +164,7 @@ Refranes:
 
 </br></br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contacto conmigo
+## <picture> <img src="https://github.com/Canton22/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contacto conmigo
 <p align="center">
 	<a href="mailto:danielcanton.dug@gmail.com.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Canton22"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
