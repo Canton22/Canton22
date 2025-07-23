@@ -127,24 +127,6 @@ Refranes:
 	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
 	<a href="https://github.com/Canton22/Proyecto-Tripleten-8.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto-Tripleten-8&theme=tokyonight" alt="Proyecto-Tripleten-8 Repo" />
     	</a>
@@ -158,31 +140,25 @@ Refranes:
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto-Tripleten-9&theme=tokyonight" alt="Proyecto-TripleTen-11 Repo />
     	</a>
 	<a href="https://github.com/Canton22/Proyecto-TripleTen-12.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto-Tripleten-9&theme=tokyonight" alt="Proyecto-TripleTen-12 Repo />
     	</a>
 	<a href="https://github.com/Canton22/Proyecto-Tripleten-13.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto-Tripleten-9&theme=tokyonight" alt="Proyecto-Tripleten-13 Repo />
     	</a>
 	<a href="https://github.com/Canton22/Proyecto-Tripleten-14.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto-Tripleten-9&theme=tokyonight" alt="Proyecto-Tripleten-14 Repo />
     	</a>
 	<a href="https://github.com/Canton22/Proyecto-15.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto-Tripleten-9&theme=tokyonight" alt="Proyecto-15 Repo />
     	</a>
 	<a href="https://github.com/Canton22/Proyecto-tripleten-16.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto-Tripleten-9&theme=tokyonight" alt="Proyecto-tripleten-16 Repo />
     	</a>
 	<a href="https://github.com/Canton22/Proyecto-TripleTen-17.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto-Tripleten-9&theme=tokyonight" alt="Proyecto-TripleTen-17 Repo />
     	</a>
 	<a href="https://github.com/7oSkaaa/vJudge-Board-Scrapper">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
