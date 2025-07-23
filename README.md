@@ -157,7 +157,6 @@ Refranes:
     	</a>
 	<a href="https://github.com/Canton22/Proyecto-TripleTen-18-Final.git">
       		img src="https://github-readme-stats.vercel.app/api/pin/?username=Canton22&repo=Proyecto-TripleTen-18-Final&theme=tokyonight" alt="Proyecto-TripleTen-18-Final Repo />
-    	</a>
   </p>
 </div>
 </details>
